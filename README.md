@@ -1,1 +1,2 @@
-# tictactoe
+# TicTacToe
+<img src="output.png" />
